@@ -1,1 +1,1 @@
-# painterworld.42web.io
+# painterworld
